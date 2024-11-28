@@ -10,6 +10,9 @@
     <div class="container-fluid" style="background-color:#666666;text-align: center;">
        <h1>BIENVENIDOS A ITSAO </h1>
 <<<<<<< HEAD
+       <h1>Diego Daniel </h1>
+=======
+<<<<<<< HEAD
        <h1>Alexis Prudencio</h1>
 =======
        <h1>agregue un cambio agustin</h1>
