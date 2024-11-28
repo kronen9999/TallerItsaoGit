@@ -9,6 +9,7 @@
   <body>
     <div class="container-fluid" style="background-color:#666666;text-align: center;">
        <h1>BIENVENIDOS A ITSAO </h1>
+       <h1>Steven Camacho Cisneros</h1>
        <img src="Cliente/Img/ItsaoLogo.png" alt="" width="100" height="100">
 </div>
 <div class="container" style="background-color:#deddd7;">
