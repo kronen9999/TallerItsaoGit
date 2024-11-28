@@ -10,7 +10,11 @@
     <div class="container-fluid" style="background-color:#666666;text-align: center;">
        <h1>BIENVENIDOS A ITSAO </h1>
        <h1>kronen9999</h1>
+<<<<<<< HEAD
        <h1>Emmanuel</h1>
+=======
+       <p style="font-size: 80px;">Leonardo Garcia Mejia </p>
+>>>>>>> b07a99fd1b81b285ed24d984ad52f30de6472d8f
        <img src="Cliente/Img/ItsaoLogo.png" alt="" width="100" height="100">
 </div>
 <div class="container" style="background-color:#deddd7;">
