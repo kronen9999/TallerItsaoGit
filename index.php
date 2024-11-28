@@ -11,6 +11,7 @@
        <h1>BIENVENIDOS A ITSAO </h1>
        <h1>agregue un cambio agustin</h1>
        <h1>kronen9999</h1>
+       <p style="font-size: 80px;">Leonardo Garcia Mejia </p>
        <img src="Cliente/Img/ItsaoLogo.png" alt="" width="100" height="100">
 </div>
 <div class="container" style="background-color:#deddd7;">
