@@ -9,8 +9,24 @@
   <body style="background-color: black;">
     <div class="container-fluid" style="background-color:#666666;text-align: center;">
        <h1>BIENVENIDOS A ITSAO </h1>
+<<<<<<< HEAD
+       <h1>Alexis Prudencio</h1>
+=======
+       <h1>agregue un cambio agustin</h1>
        <h1>kronen9999</h1>
+<<<<<<< HEAD
        <h1>Jordi Enp</h1>
+=======
+<<<<<<< HEAD
+       <h1>Emmanuel</h1>
+=======
+       <p style="font-size: 80px;">Leonardo Garcia Mejia </p>
+<<<<<<< HEAD
+>>>>>>> b07a99fd1b81b285ed24d984ad52f30de6472d8f
+=======
+>>>>>>> 351776b9592a0b27843dde66b7859efb0885471b
+>>>>>>> 7e35b32d204e78cec6f8730f82d5edf6d760af06
+>>>>>>> b48f2b135cc5d8df9b77300690bd7cc398c15c2d
        <img src="Cliente/Img/ItsaoLogo.png" alt="" width="100" height="100">
 </div>
 <div class="container" style="background-color:#deddd7;">
