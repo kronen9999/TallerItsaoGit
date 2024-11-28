@@ -21,6 +21,7 @@
        <h1>Emmanuel</h1>
 =======
        <p style="font-size: 80px;">Leonardo Garcia Mejia </p>
+       <h1>yureidi </h1>
 <<<<<<< HEAD
 >>>>>>> b07a99fd1b81b285ed24d984ad52f30de6472d8f
 =======
