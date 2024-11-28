@@ -18,6 +18,9 @@
        <h1>agregue un cambio agustin</h1>
        <h1>kronen9999</h1>
 <<<<<<< HEAD
+       <h1>Jordi Enp</h1>
+=======
+<<<<<<< HEAD
        <h1>Emmanuel</h1>
 =======
        <p style="font-size: 80px;">Leonardo Garcia Mejia </p>
